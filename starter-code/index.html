@@ -21,7 +21,7 @@
     <script id="blog-template" type="text/x-handlebars-template">
       <header><h1>{{title}}</h1></header>
       <p>{{category}}</p>
-      <div class="byline">by<address><a href="{{authorUrl}}">{{author}}</a></address>published on{{publishedOn}}</div>
+      <div class="byline">by<address>`<a href="${{authorUrl}}">{{author}}</a>`</address>published on{{publishedOn}}</div>
       <section class="body">{{{body}}}</section>
     </script>
   </head>
