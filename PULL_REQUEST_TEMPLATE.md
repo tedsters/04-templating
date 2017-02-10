@@ -1,5 +1,5 @@
 #### Single-line Summary
-**Today, _ and _ paired together. It took about _**
+**Today, Teddy and Castr paired together. It took about an hour**
 
 #### Reflect and summarize on your process for each `TODO` item :  
   1. First, we started by adding the Handlebars library
